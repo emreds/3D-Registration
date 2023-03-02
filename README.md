@@ -10,7 +10,7 @@ To enable dense correspondence, we applied artificial texture to our models. We 
 Download surfemb:
 
 ```shell
-$ git clone https://github.com/WenzhaoTang/3D-Registration.git
+$ git clone https://github.com/emreds/3D-Registration.git
 $ cd surfemb
 ```
 
@@ -56,7 +56,7 @@ wandb.log({'epoch': num})
 The value of ```num``` can be selected from the following options: ```5```, ```10```, or ```20```.
 
 | number of epochs | convergent speed | perceptibility of differences |
-|------------------|------------------|-------------------------------|
+| ---------------- | ---------------- | ----------------------------- |
 | 20 epochs        | convergence      | imperceptible                 |
 | 10 epochs        | near convergence | barely noticeable             |
 | 5 epochs         | no convergence   | obvious                       |

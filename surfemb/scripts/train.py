@@ -13,7 +13,7 @@ from ..surface_embedding import SurfaceEmbeddingModel
 
 ############################################################
 #import wandb
-#wandb.init(project="3dregistration", entity="wenzhao-tang")
+#wandb.init(project="3dregistration", entity="name")
 wandb.config = {
 #  "learning_rate": 0.001,
   "epochs": 20,
