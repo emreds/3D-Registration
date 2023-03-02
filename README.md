@@ -173,3 +173,10 @@ the [BOP toolkit](https://github.com/thodan/bop_toolkit).
 
 Custom dataset:
 Format the dataset as a BOP dataset and put it in *data/bop*.
+
+# Credits
+This project for a practical course `3D Computer Vision` offered by, Technical University of Munich.
+Team members are: 
+- Emre Demir
+- Wenzhao Tang 
+- Julian Darth  
